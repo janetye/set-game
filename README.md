@@ -12,10 +12,7 @@ pairing and teaching me all the fullstack magic.
 - Typescript
 
 ## How to play?
-```
-npm install
-npm start
-```
+[Game home page](https:://janetye.github.io/set-game)
 
 ## License
-MIT © Janet Ye
+MIT © Janet Ye & Emil Baronov
